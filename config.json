@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdrocess",
+        "uuid": 20447505,
+        "checksum": "g811om"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
